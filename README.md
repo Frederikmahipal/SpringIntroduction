@@ -10,6 +10,5 @@ if you love friday too, feel free to contribute to this project
 
 
 ## Contributors:
-----------------
 @Frederikmahipal
 
