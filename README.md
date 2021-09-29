@@ -3,7 +3,7 @@
 
 ###  This project is created in early introduction to java spring.
 
-The programs only purpose is to check if its friday, because we love friday 
+One of the purposes with this program is to check the current day is a friday
 
 if you love friday too, feel free to contribute to this project
 
